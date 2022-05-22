@@ -2,7 +2,7 @@
 This is the Shopify coding challenge for the backend developer intern position.
 
 
-### Test 
+### Testing 
 Tests are intergral part of any good software. If I had more time to work on this project, I would have loved to intergrate a testing framework like [Jest](https://jestjs.io/) to test the individual components and functionality of the app on both the frontend and backend.
 
 Sample Backend tests
