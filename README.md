@@ -38,7 +38,7 @@ Since the original code is using MongoDB locally, it is hosted on your personal 
 With that, the code on Replit is changed so it uses the Replit host name as opposed to 'localhost' in the original code. The server can be ran, connected to MongoDB Atlas, here: https://replit.com/@adamyous99/Shopify-Coding-Challenge#store.js
 
 ## Testing 
-Tests are intergral part of any good software. If I had more time to work on this project, I would have loved to intergrate a testing framework like [Jest](https://jestjs.io/) to test the individual components and functionality of the app on both the frontend and backend.
+Tests are an intergral part of any good software. If I had more time to work on this project, I would have loved to intergrate a testing framework like [Jest](https://jestjs.io/) to test the individual components and functionality of the app on both the frontend and backend.
 
 Sample Backend tests
 ```javascript
